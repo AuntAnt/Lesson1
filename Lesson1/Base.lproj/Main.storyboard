@@ -30,12 +30,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="Aji-Yb-L0r" firstAttribute="width" secondItem="SxT-96-QZw" secondAttribute="width" id="0C5-f7-F0C"/>
-                            <constraint firstItem="SxT-96-QZw" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6B1-GZ-prg"/>
                             <constraint firstItem="Aji-Yb-L0r" firstAttribute="top" secondItem="SxT-96-QZw" secondAttribute="bottom" constant="50" id="944-7C-OC3"/>
                             <constraint firstItem="SxT-96-QZw" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="Ela-1f-d9o"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="SxT-96-QZw" secondAttribute="trailing" constant="16" id="Fuf-pK-oMM"/>
-                            <constraint firstItem="Aji-Yb-L0r" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="S8L-yE-b0N"/>
                             <constraint firstItem="Aji-Yb-L0r" firstAttribute="height" secondItem="SxT-96-QZw" secondAttribute="height" id="YA9-sX-Tf1"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Aji-Yb-L0r" secondAttribute="trailing" constant="16" id="dXf-yH-d87"/>
                             <constraint firstItem="SxT-96-QZw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="fpz-wb-W4c"/>
